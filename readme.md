@@ -1,8 +1,8 @@
 ## READ ME
 
-**Coded Art** is a repository of generative art made with Processing using languages like Python and Java.
+**Coded Art** is a repository of generative art made with Processing.
 
--- Circles<br>
-![](/circles/circles.gif)<br>
 -- Sunset<br>
 ![](/sunset/sunset.gif)
+-- Circles<br>
+![](/circles/circles.gif)<br>
